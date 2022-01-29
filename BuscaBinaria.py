@@ -32,7 +32,7 @@ def busca(inicio, final, procurado):
         busca(inicio, final, procurado)
     
 
-arquivo = open('cep_ordenado.dat','r')
+arquivo = open('AmostraCepOrdenado.dat','r')
 
 print('Arquivo aberto')
 
