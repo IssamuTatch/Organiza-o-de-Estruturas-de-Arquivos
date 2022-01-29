@@ -3,7 +3,7 @@ from io import SEEK_SET
 
 import sys
 
-procurado = '26112000'
+procurado = '01017910'
 tamanhoRegistro = 300
 
 
